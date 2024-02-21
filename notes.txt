@@ -1,0 +1,1 @@
+- keep an eye on cookiecutter-django generated project to make this one production grade
